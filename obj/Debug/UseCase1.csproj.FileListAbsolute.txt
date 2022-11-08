@@ -1,0 +1,8 @@
+C:\Users\Akshata R N\source\repos\UseCase1\UseCase1\bin\Debug\UseCase1.exe.config
+C:\Users\Akshata R N\source\repos\UseCase1\UseCase1\bin\Debug\UseCase1.exe
+C:\Users\Akshata R N\source\repos\UseCase1\UseCase1\bin\Debug\UseCase1.pdb
+C:\Users\Akshata R N\source\repos\UseCase1\UseCase1\obj\Debug\UseCase1.csproj.AssemblyReference.cache
+C:\Users\Akshata R N\source\repos\UseCase1\UseCase1\obj\Debug\UseCase1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akshata R N\source\repos\UseCase1\UseCase1\obj\Debug\UseCase1.csproj.CoreCompileInputs.cache
+C:\Users\Akshata R N\source\repos\UseCase1\UseCase1\obj\Debug\UseCase1.exe
+C:\Users\Akshata R N\source\repos\UseCase1\UseCase1\obj\Debug\UseCase1.pdb
